@@ -1,0 +1,27 @@
+.main{
+width:1170px;
+margin:0 auto;
+}
+.header{
+width:100%;
+height:106px;
+float:left;
+}
+.content{
+width:100%;
+border-top:1px solid #ccc;
+height:700px;
+float:left;
+overflow-y:scroll;
+position:relative;
+}
+.footer{
+width:100%;
+height:15px;
+float:left;
+border-top:1px solid #ccc;
+}
+.footer p{
+text-align:center;
+color:#444;
+}
